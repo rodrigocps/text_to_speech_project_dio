@@ -26,3 +26,6 @@ Esta primeira fase é dedicada à **Saída de Voz** do assistente. A funcionalid
 | **`gTTS` (Google TTS)** | Conversão de Texto em Fala | Biblioteca primária usada para gerar o áudio a partir do texto (configurada para Português: `lang='pt'`). |
 | **`IPython.display.Audio`** | Reprodução de Áudio | Módulo essencial usado para renderizar e reproduzir o áudio MP3 resultante no console do Colab. |
 | **`os` e `time`** | Utilitários | Usados para gerenciamento de arquivos e controle da duração/tempo de espera da reprodução. |
+
+## Uso de IA
+Este projeto contou com auxílio de ferramentas de Inteligência Artificial para geração de trechos de código e ideias de implementação. Todo o material foi revisado, adaptado e testado manualmente antes da publicação.
